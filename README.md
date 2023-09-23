@@ -1,8 +1,21 @@
-# React + Vite
+#LMS Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Setup instructions
+1. clone the project
+```
+    git clone https://github.com/Krishna-cse/LMS-Frontend-pw.git
+```
+2. Move to the root directory
+```
+   cd lms-frontend-pw
+```
 
-Currently, two official plugins are available:
+3. install dependencies
+```
+    npm i __
+```
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+4. run the server
+```
+    npm run dev
+```
